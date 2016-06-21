@@ -1,0 +1,14 @@
+{
+  "name": "handlebars3",
+  "version": "3.0.3",
+  "description": "A fork of Handlerbars v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Figus",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^3.0.3"
+  }
+}
