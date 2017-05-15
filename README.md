@@ -1,6 +1,8 @@
 handlebars3
 ===========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/matteofigus/handlebars3.svg)](https://greenkeeper.io/)
+
 This is a fork for Handlebars.js v3. This is mainly for being integrated in npm together with newer versions.
 
 ```js
